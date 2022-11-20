@@ -1,0 +1,43 @@
+/* .nav-item{
+    transform: translateX(500px); */
+/* .fixed-nav{
+    position: sticky;
+} */
+.carousel-item{
+    height: 70vh;
+}
+.about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.image img{
+    
+    border-radius: 90%;
+    width: 250px;
+    height: 250px;
+}
+.content{
+    padding-left: 10px;
+    border-left: 3px solid blue;
+}
+
+
+.contact{
+    display: flex;
+    gap: 50px;
+    margin-top: 100px;
+    text-align: center;
+    justify-content: center;
+}
+.getin{
+    font-size: 30px;
+}
+.email{
+    width: 500px;
+}
+.getin{
+    margin-top: 80px;
+    text-align: center;
+}
